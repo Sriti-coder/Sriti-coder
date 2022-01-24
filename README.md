@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sadikun Naher Sriti
-#### I am Web Developer
+#### I am a Web Developer
 ![I am Web Developer](https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)
 
 I am Sadikun Naher Sriti.I'm a Freelancer Front-end Developer with over 1 years of experience.I am a girl developer I'm from Dhaka,Bangladesh.I always try to do my best.Any work I do from my mind.I code and create web elements for amazing people around the world.
