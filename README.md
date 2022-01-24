@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...JavaScript
 - 🤔 I’m looking for help with ...Google
 - 💬 Ask me about www.linkedin.com/in/sadikun-naher-sriti
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:sadikunnaher41@gmail.com
+- 😄 Pronouns: ...Sriti
+- ⚡ Fun fact: ...🙂
 
