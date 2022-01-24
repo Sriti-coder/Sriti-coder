@@ -2,7 +2,7 @@
 #### I am Web Developer
 ![I am Web Developer](https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)
 
-I am Sadikun Naher Sriti.I'm a Freelancer Front-end Developer with over 4 years of experience.I am a girl developer I'm from Dhaka,Bangladesh.I always try to do my best.Any work I do from my mind.I code and create web elements for amazing people around the world.
+I am Sadikun Naher Sriti.I'm a Freelancer Front-end Developer with over 1 years of experience.I am a girl developer I'm from Dhaka,Bangladesh.I always try to do my best.Any work I do from my mind.I code and create web elements for amazing people around the world.
 I like work with new people. New people are new experiences.I working trusted by beginners, marketers & professionals; with usability and performance in mind. 
 
 Skills: jQuery plugin / Animation/ JS / HTML / CSS / Framework
