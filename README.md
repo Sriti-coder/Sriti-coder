@@ -23,3 +23,9 @@ Skills: jQuery plugin / Animation/ JS / HTML / CSS / Framework
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sriti-coder)  
 
 ![Profile views](https://gpvc.arturio.dev/Sriti-coder)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/Snsriti)  
+
+
+
+
